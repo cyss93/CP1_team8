@@ -1,0 +1,19 @@
+'seller_id' 판매자
+'seller_state' 판매자 지역
+'first_order' ※ 첫번째 주문 날짜
+'last_order' ※ 최근 주문 날짜
+'sale_days' ※ 판매 기간 ( 최근 주문 날짜 - 첫번째 주문 날짜 )
+'total_profit' ※ 판매자의 총 수익
+'mean_profit' ※ 판매자의 평균 수익 ( 총 수익 / 판매 기간 )
+'mean_distance' ※ 판매자의 평균 판매 거리
+'registration_days' ※ 등록 기간 (오늘(=데이터의 가장 최근 날짜) - 첫번째 주문 날짜)
+'origin' 마켓 유입 경로
+'landing_page_id' 유입시 랜딩 페이지
+'first_contact_date' 접촉 날짜 (신청 날짜)
+'won_date' 계약 완료 날짜 (승인 날짜)
+'date_for_registration' ※ 등록 소요 시간 ( 승인 날짜 - 신청 날짜 )
+'business_type' 영업 방식 (제작자 or 유통업자 등)
+'lead_type' 영업 형태 (online_big, offline 등)
+'business_segment' 취급 품목
+'sdr_id' 판매 개발 담당자
+'sr_id' 판매 담당자
